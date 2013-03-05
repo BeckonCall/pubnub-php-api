@@ -1,0 +1,8 @@
+{
+    "name":"maerf0x0/pubnub-php-api",
+    "description":"a fork of pubnub/pubnub-api that only has the php library in it",
+    "license":"proprietary",
+    "autoload": {
+        "classmap": ["/php/3.4/Pubnub.php"]
+    }
+}
