@@ -1,8 +1,8 @@
 {
-    "name":"maerf0x0/pubnub-php-api",
+    "name":"beckoncall/pubnub-php-api",
     "description":"a fork of pubnub/pubnub-api that only has the php library in it",
-    "license":"proprietary",
+    "license":"MIT",
     "autoload": {
-        "classmap": ["/php/3.4/Pubnub.php"]
+        "psr-0": {"Pubnub" : "php/3.4/"}
     }
 }
